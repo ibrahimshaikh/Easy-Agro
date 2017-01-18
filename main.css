@@ -1,0 +1,102 @@
+#back{
+	font-family:arial;
+	font-weight:bold;
+	font-style: italic;
+	font-size: 30px;
+	background-color: none;
+	background-image: url(agriculture.jpg);
+}
+#abc{
+	height: 500px;
+	width:500px;
+	position:absolute;
+	background-color: none;
+	left:20%;
+	top:5%;
+	line-height: 45px;
+	padding-top: 70px;
+	padding-left: 30px;
+	padding-bottom: 10px;
+	border-radius:5px;
+
+}
+#a{
+	color:white;
+	height: 60px;
+	width:70%;
+	border-radius: 5px;
+	text-align: center;
+	position:absolute;
+	background:rgba(0, 0, 0, 0.5);
+}
+#b{
+	color:white;
+	height: 60px;
+	width:70%;
+	border-radius: 5px;
+	text-align: center;
+	position:absolute;
+	background:rgba(0, 0, 0, 0.5);
+}
+#c{
+	color:white;
+	height: 60px;
+	width:70%;
+	border-radius: 5px;
+	text-align: center;
+	position:absolute;
+	background:rgba(0, 0, 0, 0.5);
+}
+#d{
+	color:white;
+	height: 60px;
+	width:70%;
+	border-radius: 5px;
+	text-align: center;
+	position:absolute;
+	background:rgba(0, 0, 0, 0.5);
+}
+#e{
+	color:white;
+	height: 60px;
+	width:70%;
+	border-radius: 5px;
+	text-align: center;
+	position:absolute;
+	background:rgba(0, 0, 0, 0.5);
+}
+#a:hover{
+
+	background-color: black;
+
+}
+#b:hover{
+
+	background-color: black;
+
+}
+#c:hover{
+
+	background-color: black;
+
+}
+#d:hover{
+
+	background-color: black;
+
+}
+#e:hover{
+
+	background-color: black;
+
+}
+#h{
+	color:#23237b;
+	font-size: 20px;
+	padding:30px;
+
+
+}
+#h:hover{
+	color: #04045d;
+}

@@ -1,0 +1,49 @@
+body{
+	font-family:arial,sans-serif;
+	font-weight:lighter;
+	background-image:url(agriculture.jpg);
+
+}
+
+
+#form{
+
+	width:500px;
+	position: absolute;
+	top:30%;
+	left:30%;
+	background:rgba(0, 0, 0, 0.5);
+	height:300px;
+	line-height: 75px;
+	text-align: center;
+	border-radius:5%;
+	color: white;
+	font-size: 1.4em;
+
+}
+#log{
+	padding: 10px;
+	border-radius: 5%;
+}
+#sub{
+	padding:10px;
+	cursor:pointer;
+	background:black;
+	color:white;
+	height: 40px;
+	width:80px;
+	border-radius:10%;
+}
+#sub:hover{
+	background: white;
+	color:black;
+	transition:all 1s;
+}
+
+#reg {
+	color: white;
+}
+
+#reg:hover {
+	color: black;
+}

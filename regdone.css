@@ -1,0 +1,15 @@
+#back{
+font-family: arial,sans-serif;
+background-color: #9ac59f;
+
+}
+#back{
+	position:absolute;
+	top:20%;
+	left:20%;
+}
+#new{
+	font-size:2.8em ;
+	color:red;
+	
+}

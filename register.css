@@ -1,0 +1,42 @@
+body{
+	font-family:arial,sans-serif;
+	font-weight:lighter;
+	background: #dae0ea;
+
+}
+#easy{
+	padding:0.5px;
+	color:white;
+	background-color: #2b2b2d;
+	font-size: 1.6em;
+	
+}
+
+#log{
+	padding: 8px;
+	border-radius: 8%;
+	border-color: #846e6e;
+	
+}
+#sub{
+	padding:10px;
+	cursor:pointer;
+	background:black;
+	color:white;
+	height:40px;
+	width:80px;
+	border-radius:10%;
+}
+#sub:hover{
+	background: white;
+	color:black;
+	transition:all 1s;
+}
+
+#reg {
+	color: black;
+}
+
+#reg:hover {
+	color: blue;
+}
